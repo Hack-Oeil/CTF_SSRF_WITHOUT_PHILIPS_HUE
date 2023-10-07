@@ -8,8 +8,8 @@ Elles sont simulées par une vidéo "interactive" que le formateur utilisera en 
 
 ----------------------------------------------
 
-En tant que formateur vous devez avoir :
+En tant que formateur vous devez avoir d'installé :
 - Python
-- Puis téléchargez OBS et installez le: https://obsproject.com/fr/download
+- OBS : https://obsproject.com/fr/download
 
 Pour info vous n'aurez pas besoin de lancer OBS !
