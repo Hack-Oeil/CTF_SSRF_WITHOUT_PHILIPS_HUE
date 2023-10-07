@@ -10,9 +10,9 @@ Elles sont simulées par une vidéo "interactive" que le formateur utilisera en 
 
 En tant que formateur vous devez avoir d'installé :
 - Python
-- OBS : https://obsproject.com/fr/download
+- OBS : [https://obsproject.com/fr/download](https://obsproject.com/fr/download)
 
 Pour info vous n'aurez pas besoin de lancer OBS !
 
 ## Pour les formateurs
-Une vidéo pour mettre en place le CTF pour vos étudiants : https://youtu.be/XLiuWo4rAmw
+Une vidéo pour mettre en place le CTF pour vos étudiants : [https://youtu.be/XLiuWo4rAmw](https://youtu.be/XLiuWo4rAmw)
