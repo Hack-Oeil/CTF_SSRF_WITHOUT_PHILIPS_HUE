@@ -15,4 +15,4 @@ En tant que formateur vous devez avoir d'installé :
 Pour info vous n'aurez pas besoin de lancer OBS !
 
 ## Pour les formateurs
-Une vidéo pour mettre en place le CTF pour vos étudiants : https://youtu.be/raRTF46xHJA
+Une vidéo pour mettre en place le CTF pour vos étudiants : https://youtu.be/XLiuWo4rAmw
