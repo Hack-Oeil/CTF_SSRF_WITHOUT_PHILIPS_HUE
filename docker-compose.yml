@@ -1,0 +1,26 @@
+version: '3.3'
+services:
+  webserver:
+    build: server_1/
+    ports:
+      - "80:80"
+    image: blog_ssrf_without_hue
+    container_name: blog-ssrf_without_hue
+    networks:
+      my_ssrf_network:
+        ipv4_address: 172.20.0.11
+  webserver2:
+    build: server_2/
+    ports:
+      - "3000:3000"
+    image: light_ssrf_without_hue
+    container_name: light-ssrf_without_hue
+    command: npm start
+    networks:
+      my_ssrf_network:
+        ipv4_address: 172.20.0.12
+networks:
+  my_ssrf_network:
+    ipam:
+      config:
+        - subnet: 172.20.0.0/16
