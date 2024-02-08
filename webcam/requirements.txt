@@ -1,4 +1,4 @@
 pyvirtualcam
 opencv-python
 python-socketio
-opencv-python
+websocket-client
