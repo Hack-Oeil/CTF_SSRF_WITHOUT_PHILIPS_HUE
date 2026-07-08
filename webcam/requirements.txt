@@ -1,4 +1,0 @@
-pyvirtualcam
-opencv-python
-python-socketio
-websocket-client
