@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Climatisation",
     "Tout les champs sont obligatoire" => "Tout les champs sont obligatoire",
     "Bien joué le flag est :" => "Bien joué le flag est :",
+    "Mon serveur HTTP" => "Mon serveur HTTP",
+    "Mon serveur SMTP" => "Mon serveur SMTP",
+    "Serveur Lumière" => "Serveur Lumière",
+    "Autres serveurs domotiques en cours de déploiement" => "Autres serveurs domotiques en cours de déploiement",
+    "Volets roulants" => "Volets roulants",
+    "Thermostat" => "Thermostat",
+    "Domotique extérieur" => "Domotique extérieur",
+    "portail, arrosage, garage, ..." => "portail, arrosage, garage, ...",
 ];

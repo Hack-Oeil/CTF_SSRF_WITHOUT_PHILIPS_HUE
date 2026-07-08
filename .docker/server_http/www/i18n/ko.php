@@ -21,4 +21,12 @@ return [
     "Climatisation" => "에어컨",
     "Tout les champs sont obligatoire" => "모든 필드는 필수입니다",
     "Bien joué le flag est :" => "잘하셨습니다, 플래그는 다음과 같습니다:",
+    "Mon serveur HTTP" => "나의 HTTP 서버",
+    "Mon serveur SMTP" => "나의 SMTP 서버",
+    "Serveur Lumière" => "조명 서버",
+    "Autres serveurs domotiques en cours de déploiement" => "배포 중인 기타 홈 자동화 서버",
+    "Volets roulants" => "롤러 셔터",
+    "Thermostat" => "온도 조절기",
+    "Domotique extérieur" => "실외 홈 자동화",
+    "portail, arrosage, garage, ..." => "게이트, 급수, 차고, ...",
 ];

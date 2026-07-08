@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Máy lạnh",
     "Tout les champs sont obligatoire" => "Tất cả các trường là bắt buộc",
     "Bien joué le flag est :" => "Làm tốt lắm, cờ là:",
+    "Mon serveur HTTP" => "Máy chủ HTTP của tôi",
+    "Mon serveur SMTP" => "Máy chủ SMTP của tôi",
+    "Serveur Lumière" => "Máy chủ ánh sáng",
+    "Autres serveurs domotiques en cours de déploiement" => "Các máy chủ nhà thông minh khác đang được triển khai",
+    "Volets roulants" => "Cửa cuốn",
+    "Thermostat" => "Máy điều nhiệt",
+    "Domotique extérieur" => "Nhà thông minh ngoài trời",
+    "portail, arrosage, garage, ..." => "cổng, tưới nước, nhà để xe, ...",
 ];

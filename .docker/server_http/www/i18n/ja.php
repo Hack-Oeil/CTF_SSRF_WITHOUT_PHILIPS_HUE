@@ -21,4 +21,12 @@ return [
     "Climatisation" => "エアコン",
     "Tout les champs sont obligatoire" => "すべてのフィールドは必須です",
     "Bien joué le flag est :" => "よくやった、フラグは:",
+    "Mon serveur HTTP" => "私のHTTPサーバー",
+    "Mon serveur SMTP" => "私のSMTPサーバー",
+    "Serveur Lumière" => "ライトサーバー",
+    "Autres serveurs domotiques en cours de déploiement" => "現在展開中のその他のホームオートメーションサーバー",
+    "Volets roulants" => "ローラシャッター",
+    "Thermostat" => "サーモスタット",
+    "Domotique extérieur" => "屋外ホームオートメーション",
+    "portail, arrosage, garage, ..." => "ゲート、散水、ガレージ、...",
 ];

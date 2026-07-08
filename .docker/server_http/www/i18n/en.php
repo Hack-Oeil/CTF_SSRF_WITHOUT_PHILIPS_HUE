@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Air Conditioning",
     "Tout les champs sont obligatoire" => "All fields are required",
     "Bien joué le flag est :" => "Well done, the flag is:",
+    "Mon serveur HTTP" => "My HTTP server",
+    "Mon serveur SMTP" => "My SMTP server",
+    "Serveur Lumière" => "Light Server",
+    "Autres serveurs domotiques en cours de déploiement" => "Other home automation servers being deployed",
+    "Volets roulants" => "Roller shutters",
+    "Thermostat" => "Thermostat",
+    "Domotique extérieur" => "Outdoor home automation",
+    "portail, arrosage, garage, ..." => "gate, watering, garage, ...",
 ];

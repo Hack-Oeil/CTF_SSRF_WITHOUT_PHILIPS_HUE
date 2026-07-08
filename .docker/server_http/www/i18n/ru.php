@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Кондиционер",
     "Tout les champs sont obligatoire" => "Все поля обязательны",
     "Bien joué le flag est :" => "Отличная работа, флаг:",
+    "Mon serveur HTTP" => "Мой HTTP-сервер",
+    "Mon serveur SMTP" => "Мой SMTP-сервер",
+    "Serveur Lumière" => "Сервер освещения",
+    "Autres serveurs domotiques en cours de déploiement" => "Другие развертываемые серверы домашней автоматизации",
+    "Volets roulants" => "Рольставни",
+    "Thermostat" => "Термостат",
+    "Domotique extérieur" => "Наружная домашняя автоматизация",
+    "portail, arrosage, garage, ..." => "ворота, полив, гараж, ...",
 ];

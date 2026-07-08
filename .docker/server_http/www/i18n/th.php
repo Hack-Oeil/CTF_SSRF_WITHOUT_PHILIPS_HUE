@@ -21,4 +21,12 @@ return [
     "Climatisation" => "เครื่องปรับอากาศ",
     "Tout les champs sont obligatoire" => "จำเป็นต้องกรอกทุกช่อง",
     "Bien joué le flag est :" => "ทำได้ดีมาก แฟล็กคือ:",
+    "Mon serveur HTTP" => "เซิร์ฟเวอร์ HTTP ของฉัน",
+    "Mon serveur SMTP" => "เซิร์ฟเวอร์ SMTP ของฉัน",
+    "Serveur Lumière" => "เซิร์ฟเวอร์ไฟ",
+    "Autres serveurs domotiques en cours de déploiement" => "เซิร์ฟเวอร์ระบบอัตโนมัติในบ้านอื่นๆ ที่กำลังใช้งานอยู่",
+    "Volets roulants" => "บานม้วน",
+    "Thermostat" => "เทอร์โมสตัท",
+    "Domotique extérieur" => "ระบบอัตโนมัติในบ้านกลางแจ้ง",
+    "portail, arrosage, garage, ..." => "ประตู, รดน้ำ, โรงรถ, ...",
 ];

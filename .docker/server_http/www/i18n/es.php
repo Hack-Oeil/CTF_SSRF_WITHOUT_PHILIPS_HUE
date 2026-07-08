@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Aire acondicionado",
     "Tout les champs sont obligatoire" => "Todos los campos son obligatorios",
     "Bien joué le flag est :" => "Bien hecho, la bandera es:",
+    "Mon serveur HTTP" => "Mi servidor HTTP",
+    "Mon serveur SMTP" => "Mi servidor SMTP",
+    "Serveur Lumière" => "Servidor de luces",
+    "Autres serveurs domotiques en cours de déploiement" => "Otros servidores domóticos en despliegue",
+    "Volets roulants" => "Persianas",
+    "Thermostat" => "Termostato",
+    "Domotique extérieur" => "Domótica exterior",
+    "portail, arrosage, garage, ..." => "puerta, riego, garaje, ...",
 ];

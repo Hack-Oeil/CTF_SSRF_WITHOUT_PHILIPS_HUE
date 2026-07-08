@@ -21,4 +21,12 @@ return [
     "Climatisation" => "空调",
     "Tout les champs sont obligatoire" => "所有字段为必填",
     "Bien joué le flag est :" => "干得好，标志是：",
+    "Mon serveur HTTP" => "我的HTTP服务器",
+    "Mon serveur SMTP" => "我的SMTP服务器",
+    "Serveur Lumière" => "灯光服务器",
+    "Autres serveurs domotiques en cours de déploiement" => "正在部署的其他家庭自动化服务器",
+    "Volets roulants" => "卷帘门",
+    "Thermostat" => "恒温器",
+    "Domotique extérieur" => "户外家庭自动化",
+    "portail, arrosage, garage, ..." => "大门，浇水，车库，...",
 ];

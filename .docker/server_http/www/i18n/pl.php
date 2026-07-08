@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Klimatyzacja",
     "Tout les champs sont obligatoire" => "Wszystkie pola są wymagane",
     "Bien joué le flag est :" => "Dobra robota, flaga to:",
+    "Mon serveur HTTP" => "Mój serwer HTTP",
+    "Mon serveur SMTP" => "Mój serwer SMTP",
+    "Serveur Lumière" => "Serwer świateł",
+    "Autres serveurs domotiques en cours de déploiement" => "Inne wdrażane serwery inteligentnego domu",
+    "Volets roulants" => "Rolety",
+    "Thermostat" => "Termostat",
+    "Domotique extérieur" => "Automatyka domowa na zewnątrz",
+    "portail, arrosage, garage, ..." => "brama, nawadnianie, garaż, ...",
 ];

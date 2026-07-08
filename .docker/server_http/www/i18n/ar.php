@@ -21,4 +21,12 @@ return [
     "Climatisation" => "تكييف",
     "Tout les champs sont obligatoire" => "جميع الحقول مطلوبة",
     "Bien joué le flag est :" => "أحسنت، العلم هو:",
+    "Mon serveur HTTP" => "خادمي HTTP",
+    "Mon serveur SMTP" => "خادمي SMTP",
+    "Serveur Lumière" => "خادم الإضاءة",
+    "Autres serveurs domotiques en cours de déploiement" => "خوادم أتمتة المنزل الأخرى قيد النشر",
+    "Volets roulants" => "مصاريع دوارة",
+    "Thermostat" => "ترموستات",
+    "Domotique extérieur" => "أتمتة المنزل الخارجية",
+    "portail, arrosage, garage, ..." => "بوابة، ري، مرآب، ...",
 ];

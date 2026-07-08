@@ -21,4 +21,12 @@ return [
     "Climatisation" => "Klimaanlage",
     "Tout les champs sont obligatoire" => "Alle Felder sind Pflichtfelder",
     "Bien joué le flag est :" => "Gut gemacht, das Flag ist:",
+    "Mon serveur HTTP" => "Mein HTTP-Server",
+    "Mon serveur SMTP" => "Mein SMTP-Server",
+    "Serveur Lumière" => "Licht-Server",
+    "Autres serveurs domotiques en cours de déploiement" => "Weitere Smart-Home-Server in Bereitstellung",
+    "Volets roulants" => "Rollläden",
+    "Thermostat" => "Thermostat",
+    "Domotique extérieur" => "Outdoor-Smart-Home",
+    "portail, arrosage, garage, ..." => "Tor, Bewässerung, Garage, ...",
 ];
