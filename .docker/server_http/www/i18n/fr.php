@@ -21,9 +21,4 @@ return [
     "Climatisation" => "Climatisation",
     "Tout les champs sont obligatoire" => "Tout les champs sont obligatoire",
     "Bien joué le flag est :" => "Bien joué le flag est :",
-    "Vous avez réussi à allumer la lumière de mon salon." => "Vous avez réussi à allumer la lumière de mon salon.",
-    "Vous avez réussi, mais la lumière de mon salon était déjà allumée." => "Vous avez réussi, mais la lumière de mon salon était déjà allumée.",
-    "Merci pour votre message" => "Merci pour votre message",
-    "Erreur d'envoi de votre message, le serveur n'a pas répondu comme il se doit" => "Erreur d'envoi de votre message, le serveur n'a pas répondu comme il se doit",
-    "N'hésitez pas à me contacter pour en discuter." => "N'hésitez pas à me contacter pour en discuter.",
 ];
