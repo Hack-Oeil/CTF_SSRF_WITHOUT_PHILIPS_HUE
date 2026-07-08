@@ -9,7 +9,7 @@ $_ENV['DEFAULT_CTF_FLAG'] = 'e2d90f1a3e209919fde49e45d240361357ca5297';
 // On securise le cookie de session (PHPSESSID)
 session_set_cookie_params(60 * 60, null, null, false, true);
 
-require '../vendor/autoload.php';
+require __DIR__.'/waiting_or_autoload.php';
 
 $kernel = new Yoop\Kernel();
 (new Yoop\Database\Wait)->tryMySQL();
